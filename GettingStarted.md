@@ -9,7 +9,35 @@
 
 Civtest is a Minetest-based sandbox where players must band together, in whichever way they see fit, to conquer a lawless and unforgiving wilderness.
 
-## Core Mechanics
+## Quickstart
+
+1. Download and install Minetest 5.1.1 (5.1 is also compatible) from [here](http://www.minetest.net/downloads/).
+
+2. (Optional) review 'Settings' tab.
+
+3. Click 'Join Game' and enter `civtest.org` as the Address. Choose a username and password (this is hashed + salted serverside). Re-enter your password when prompted.
+
+4. You should be in-game. Hit `Esc` to see the menu -- review and change your keybindings.
+
+**Important Things**
+
+Hold `E`(aka 'Special') to sprint. Be warned that this uses a lot of Satiation.
+
+Hit `F9` to see the minimap and radar. Configure zoom with additional `F9` hits. 
+
+If your sensitivity in-game is too high, go to the 'Settings' tab in the main menu, hit 'All Settings' and search for "sensitivity", and adjust.
+
+If you don't like the entity selection box, you can disable it in 'All Settings' (search: selectionbox).
+
+FPS is limited to 60fps by default. Change in 'All Settings' (search: fps).
+
+Nights are really dark -- no, there isn't a setting to change this. Make torches.
+
+Shift-clicking generally works the same as in Minecraft. Middle-mouse-button is capable of crafting 10 items at a time.
+
+There is a chat radius of 1000 blocks. CombatTag is 30s.
+
+## Core Game Mechanics
 
 ### Ores and Materials
 
