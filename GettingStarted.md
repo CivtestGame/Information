@@ -15,7 +15,7 @@ Civtest is a Minetest-based sandbox where players must band together, in whichev
 
 2. (Optional) review 'Settings' tab.
 
-3. Click 'Join Game' and enter `civtest.org` as the Address. Choose a username and password (this is hashed + salted serverside). Re-enter your password when prompted.
+3. Click 'Join Game' and enter `civtest.org` as the Address (Port is `30000`) Choose a username and password (this is hashed + salted serverside). Re-enter your password when prompted.
 
 4. You should be in-game. Hit `Esc` to see the menu -- review and change your keybindings.
 
@@ -40,6 +40,8 @@ There is a chat radius of 1000 blocks. CombatTag is 30s.
 WorldBorder is a 5000 block radius from 0,0. You cannot reinforce blocks for the last 50 blocks before the border.
 
 Bedrock is at y=-250. You cannot build beyond y=250.
+
+CombatTag is configured to **kill** you if you've been tagged and logout/disconnect. Tag on-login is 5s, tag in combat is 30s. 
 
 ## Core Game Mechanics
 
