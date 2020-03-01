@@ -112,9 +112,9 @@ Foods generally follow a quality system. Foraged foods, while capable of sustain
 
 Processed/cooked foods are better, but obviously require a time or resource investment to obtain. Agriculture is a good, sustainable way to feed a population.
 
-Wild animals can also serve as a source of food. Rabbits and rats are uncommon, but serve as a good supplement to food stocks.
+Wild animals can also serve as a source of food. Rabbits are uncommon, but serve as a good supplement to food stocks.
 
-Tameable animals are rare in this world, but they can serve as a great source of food when tamed and properly looked after. Cows are particularly suited to producing large amounts of food, but they are rare, and may attract unwanted attention from other players. 
+Tameable animals are rare in this world, but they can serve as a great source of food when tamed and properly looked after. Cows are particularly suited to producing large amounts of food, but they are scarce, and may attract unwanted attention from other players. 
 
 #### Factories
 
