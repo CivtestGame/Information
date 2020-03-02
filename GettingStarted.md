@@ -37,7 +37,7 @@ Shift-clicking generally works the same as in Minecraft. Middle-mouse-button is 
 
 There is a chat radius of 1000 blocks. CombatTag is 30s.
 
-WorldBorder is a 5000 block radius from 0,0. You cannot reinforce blocks for the last 50 blocks before the border.
+WorldBorder is a 5000 block radius from 0,0. You cannot reinforce blocks for the last 50 blocks before the border. Random spawning occurs in a 2500-radius.
 
 Bedrock is at y=-250. You cannot build beyond y=250.
 
